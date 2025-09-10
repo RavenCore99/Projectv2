@@ -1,0 +1,22 @@
+Factura ingresada:
+NIT: 108345765-0
+Fecha: 2022.11-08
+Valor: 200000
+
+NIT válido: ✔️
+Fecha válida: ❌
+Valor válido: ✔️
+
+❌ Factura inválida
+--------------------------------------------------
+Factura ingresada:
+NIT: 991108248-2
+Fecha: 2025-08-19
+Valor: 35000
+
+NIT válido: ✔️
+Fecha válida: ✔️
+Valor válido: ✔️
+
+✅ Factura válida
+--------------------------------------------------
