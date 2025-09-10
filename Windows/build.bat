@@ -1,3 +1,7 @@
+REM este archivo .bat fue hecho con ayuda a documentacion y uso de IA para poder desarrollar un ejecutable
+REM puede ser replicado o utilizado libremente. Solo es un complemento para poder crear un .exe del codigo base
+
+
 @echo off
 SET APP_NAME=ValidadorFacturas
 SET MAIN_SCRIPT=main.py

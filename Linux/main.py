@@ -1,3 +1,9 @@
+#Se agregan las librerias correspondientes al codigo para facilitar la ejecucion de la solicitud 
+# dicho codigo hacer parte del prototipo para verificacion de facturas por medio de digitos numericos
+# basado en las expresiones regulares de la teoria de lenguajes y automatas
+# --------------- Prototipo elaborado por el Grupo A -------------------------------------------------
+
+
 import re
 import tkinter as tk
 from tkinter import messagebox
@@ -59,7 +65,7 @@ def guardar_factura():
         f.write(mensaje + "\n" + "-"*50 + "\n")
 
 
-# ---------------- Crear GUI con Tkinter ----------------
+# ----------------  GUI ----------------
 root = tk.Tk()
 root.title("Validador de Facturación Electrónica")
 root.geometry("400x300")

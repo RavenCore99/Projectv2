@@ -37,3 +37,7 @@ Siga las instruccionees para ejecutar el programa
 
 
 Dicho prototipo se encuentra en evaluaciones y revisiones diarias para ajustar su funcionamiento de acuerdo a los requerimientos y su optimo funcionamiento
+
+Los archivos portados en cada carpeta son independientes. por lo que modificarlos sin conocimientos puede generar errores en la ejecucion del programa
+
+--. En algunos equipos se requiere de la ultima version de Python para la ejecucion correcta del ejecutable (no en todos los casos)

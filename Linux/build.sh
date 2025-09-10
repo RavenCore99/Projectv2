@@ -1,7 +1,8 @@
-#!/bin/bash
+#!
 
-# 🚀 Script para compilar el proyecto de validación de facturas
-# Genera un ejecutable para Linux con PyInstaller
+# Script creado para build de codigo principal en python.
+# dicho archivo esta hecho por librerias y a apoyo de foros e IA para la elaboracion del correcto funcionamiento
+# replicar este .sh esta abierto al uso publico 
 
 APP_NAME="ValidadorFacturas"
 MAIN_SCRIPT="main.py"
